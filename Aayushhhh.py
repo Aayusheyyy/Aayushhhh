@@ -415,12 +415,21 @@ def linex():
 logo=("""\n
 
       __            __       ___  ___  ____  ____   ________  __    __   
-     /""\          /""\     |"  \/"  |("  _||_ " | /"       )/" |  | "\  
-    /    \        /    \     \   \  / |   (  ) : |(:   \___/(:  (__)  :) 
-   /' /\  \      /' /\  \     \\  \/  (:  |  | . ) \___  \   \/      \/  
-  //  __'  \    //  __'  \    /   /    \\ \__/ //   __/  \\  //  __  \\  
- /   /  \\  \  /   /  \\  \  /   /     /\\ __ //\  /" \   :)(:  (  )  :) 
-(___/    \___)(___/    \___)|___/     (__________)(_______/  \__|  |__/  
+      .S_SSSs           .S_SSSs           .S S.          .S       S.           sSSs         .S    S.   
+.SS~SSSSS         .SS~SSSSS         .SS   SS.        .SS       SS.         d%%SP        .SS    SS.  
+S%S   SSSS        S%S   SSSS        S%S   S%S        S%S       S%S        d%S'          S%S    S%S  
+S%S    S%S        S%S    S%S        S%S   S%S        S%S       S%S        S%|           S%S    S%S  
+S%S SSSS%S        S%S SSSS%S        S%S   S%S        S&S       S&S        S&S           S%S SSSS%S  
+S&S  SSS%S        S&S  SSS%S         SS SS          S&S       S&S        Y&Ss          S&S  SSS&S  
+S&S    S&S        S&S    S&S          S S           S&S       S&S        `S&&S         S&S    S&S  
+S&S    S&S        S&S    S&S          SSS           S&S       S&S          `S*S        S&S    S&S  
+S*S    S&S        S*S    S&S          S*S           S*b       d*S           l*S        S*S    S*S  
+S*S    S*S        S*S    S*S          S*S           S*S.     .S*S          .S*P        S*S    S*S  
+S*S    S*S        S*S    S*S          S*S            SSSbs_sdSSS         sSS*S         S*S    S*S  
+SSS    S*S        SSS    S*S          S*S            YSSP~YSSY          YSS'          SSS    S*S  
+       SP                SP           SP                                                     SP   
+       Y                 Y            Y                                                      Y    
+                                                                                                  
                                                                          
 \033[1;37m----------------------------------------------
  AUTHOR     : AAYUSH
